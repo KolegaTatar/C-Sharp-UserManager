@@ -1,0 +1,15 @@
+C:\Users\rolan\Videos\Obiektowe\Proba3\Proba3\bin\Debug\net6.0\Proba3.exe
+C:\Users\rolan\Videos\Obiektowe\Proba3\Proba3\bin\Debug\net6.0\Proba3.deps.json
+C:\Users\rolan\Videos\Obiektowe\Proba3\Proba3\bin\Debug\net6.0\Proba3.runtimeconfig.json
+C:\Users\rolan\Videos\Obiektowe\Proba3\Proba3\bin\Debug\net6.0\Proba3.dll
+C:\Users\rolan\Videos\Obiektowe\Proba3\Proba3\bin\Debug\net6.0\Proba3.pdb
+C:\Users\rolan\Videos\Obiektowe\Proba3\Proba3\obj\Debug\net6.0\Proba3.csproj.AssemblyReference.cache
+C:\Users\rolan\Videos\Obiektowe\Proba3\Proba3\obj\Debug\net6.0\Proba3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rolan\Videos\Obiektowe\Proba3\Proba3\obj\Debug\net6.0\Proba3.AssemblyInfoInputs.cache
+C:\Users\rolan\Videos\Obiektowe\Proba3\Proba3\obj\Debug\net6.0\Proba3.AssemblyInfo.cs
+C:\Users\rolan\Videos\Obiektowe\Proba3\Proba3\obj\Debug\net6.0\Proba3.csproj.CoreCompileInputs.cache
+C:\Users\rolan\Videos\Obiektowe\Proba3\Proba3\obj\Debug\net6.0\Proba3.dll
+C:\Users\rolan\Videos\Obiektowe\Proba3\Proba3\obj\Debug\net6.0\refint\Proba3.dll
+C:\Users\rolan\Videos\Obiektowe\Proba3\Proba3\obj\Debug\net6.0\Proba3.pdb
+C:\Users\rolan\Videos\Obiektowe\Proba3\Proba3\obj\Debug\net6.0\Proba3.genruntimeconfig.cache
+C:\Users\rolan\Videos\Obiektowe\Proba3\Proba3\obj\Debug\net6.0\ref\Proba3.dll

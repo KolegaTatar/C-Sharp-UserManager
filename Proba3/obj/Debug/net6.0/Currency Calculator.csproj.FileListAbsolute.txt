@@ -1,0 +1,15 @@
+C:\Users\rolan\Videos\Obiektowe\Proba3\Proba3\bin\Debug\net6.0\Currency Calculator.exe
+C:\Users\rolan\Videos\Obiektowe\Proba3\Proba3\bin\Debug\net6.0\Currency Calculator.deps.json
+C:\Users\rolan\Videos\Obiektowe\Proba3\Proba3\bin\Debug\net6.0\Currency Calculator.runtimeconfig.json
+C:\Users\rolan\Videos\Obiektowe\Proba3\Proba3\bin\Debug\net6.0\Currency Calculator.dll
+C:\Users\rolan\Videos\Obiektowe\Proba3\Proba3\bin\Debug\net6.0\Currency Calculator.pdb
+C:\Users\rolan\Videos\Obiektowe\Proba3\Proba3\obj\Debug\net6.0\Currency Calculator.csproj.AssemblyReference.cache
+C:\Users\rolan\Videos\Obiektowe\Proba3\Proba3\obj\Debug\net6.0\Currency Calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rolan\Videos\Obiektowe\Proba3\Proba3\obj\Debug\net6.0\Currency Calculator.AssemblyInfoInputs.cache
+C:\Users\rolan\Videos\Obiektowe\Proba3\Proba3\obj\Debug\net6.0\Currency Calculator.AssemblyInfo.cs
+C:\Users\rolan\Videos\Obiektowe\Proba3\Proba3\obj\Debug\net6.0\Currency Calculator.csproj.CoreCompileInputs.cache
+C:\Users\rolan\Videos\Obiektowe\Proba3\Proba3\obj\Debug\net6.0\Currency Calculator.dll
+C:\Users\rolan\Videos\Obiektowe\Proba3\Proba3\obj\Debug\net6.0\refint\Currency Calculator.dll
+C:\Users\rolan\Videos\Obiektowe\Proba3\Proba3\obj\Debug\net6.0\Currency Calculator.pdb
+C:\Users\rolan\Videos\Obiektowe\Proba3\Proba3\obj\Debug\net6.0\Currency Calculator.genruntimeconfig.cache
+C:\Users\rolan\Videos\Obiektowe\Proba3\Proba3\obj\Debug\net6.0\ref\Currency Calculator.dll
